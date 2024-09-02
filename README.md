@@ -1,7 +1,7 @@
-# <img src="https://cdn-icons-png.freepik.com/512/3220/3220623.png?ga=GA1.1.1514156874.1704645895" width="100px">  DevLaughs 
+# <img src="https://cdn-icons-png.freepik.com/512/3220/3220623.png?ga=GA1.1.1514156874.1704645895" width="100px">  HenilLaughs 
 Project for generate random jokes for Developers
 
-Welcome to **DevLaugh Generator**, a simple and responsive web application that fetches random jokes specifically tailored for developers and coders. This project is built using HTML, Bootstrap, and JavaScript, and it retrieves jokes from a public API.
+Welcome to **HenilLaugh Generator**, a simple and responsive web application that fetches random jokes specifically tailored for developers and coders. This project is built using HTML, Bootstrap, and JavaScript, and it retrieves jokes from a public API.
 
 ## Features
 
